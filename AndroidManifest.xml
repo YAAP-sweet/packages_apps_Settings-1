@@ -3876,8 +3876,8 @@
         
         <!-- BlazeHouse -->
         <activity android:name=".Settings$BlazeHouseSettingsActivity"
-                  android:label="@string/extensions_title"
-                  android:icon="@drawable/ic_homepage_extensions"
+                  android:label="@string/blazehouse_title"
+                  android:icon="@drawable/ic_homepage_blaze"
                   android:exported="true"
                   android:parentActivityName="com.android.settings">
             <intent-filter>

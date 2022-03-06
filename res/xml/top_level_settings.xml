@@ -48,7 +48,7 @@
 
      <Preference
         android:key="top_level_blaze"
-        android:title="@string/blaze_title"
+        android:title="@string/blazehouse_title"
         android:summary="@string/build_tweaks_summary_title"
         android:icon="@drawable/ic_settings_blaze"
         android:order="-130"

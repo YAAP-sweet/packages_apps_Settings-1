@@ -162,8 +162,6 @@
     <string name="face_unlock_method_default">When the screen is turned on</string>
     <string name="face_unlock_method_swipe">When swiping on lock screen</string>
 
-    <string name="usercard_summary">Current active user, tap for more information</string>
-
     <!-- Per-app volume control -->
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
